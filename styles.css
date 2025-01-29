@@ -549,7 +549,7 @@ footer {
  .banner__3__container h2:hover{
     color: #f59e1d;
     transition: 1s;
-    transform: scale(1.5);
+    transform: scale(1.1);
  }
 
 .nav__links span:hover{
